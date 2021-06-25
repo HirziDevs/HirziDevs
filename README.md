@@ -2,7 +2,10 @@
 
 - 🖥️ I'm working on PureNodes Hosting
 - 🌱 I’m currently learning mysql
-- 📫 How to reach me: Discord Hirzi#8701
+- 💬 How to reach me: Discord Hirzi#8701
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=HirziRDev&show_icons=true&theme=algolia)]
+
 
 <!--
 **HirziRDev/HirziRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
