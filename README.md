@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hirzi 👋
+
+- 🖥️ I'm working on PureNodes Hosting
+- 🌱 I’m currently learning mysql
+- 📫 How to reach me: Discord Hirzi#8701
 
 <!--
 **HirziRDev/HirziRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
