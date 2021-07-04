@@ -15,7 +15,7 @@
 
 - **PteroStats** (Open Source Later)
 ![img](https://media.discordapp.net/attachments/796259732683227157/861126504246411264/20210704_130856.jpg)
-![img](https://media.discordapp.net/attachments/861112767174803466/861194338687385610/IMG_20210704_173809.jpg05334aa4f912.jpg)
+![img](https://media.discordapp.net/attachments/861112767174803466/861194338687385610/IMG_20210704_173809.jpg)
 
 - **TicketBot Recode**
 
