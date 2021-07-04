@@ -19,6 +19,7 @@
 
 - **TicketBot Recode**
 
+## Github Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=HirziDevs&show_icons=true&theme=algolia)
 
 
