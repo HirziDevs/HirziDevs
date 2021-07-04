@@ -1,6 +1,7 @@
 ### Hi there, I'm Hirzi 👋
 
 - 🖥️ I'm making discord.js bot
+- 🇮🇩 I'm from indonesia
 - 🌱 I’m currently learning mysql
 - 💬 How to reach me: Discord Hirzi#8701
 
