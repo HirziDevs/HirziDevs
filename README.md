@@ -2,9 +2,9 @@
 
 - 🖥️ I'm making discord.js bot
 - 🇮🇩 I'm from indonesia
-- 🌱 I’m currently learning mysql
+- 🌱 I’m currently learning mongodb
 
-## Need dev?
+## Need Developer?
 
 - 💬 Discord: Hirzi#8701
 - 💬 Email: hirzidevs@gmail.com
