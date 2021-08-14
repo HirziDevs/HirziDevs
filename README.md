@@ -1,9 +1,14 @@
-### Hi there, I'm Hirzi 👋
+# Hi there, I'm Hirzi 👋
 
 - 🖥️ I'm making discord.js bot
 - 🇮🇩 I'm from indonesia
 - 🌱 I’m currently learning mysql
-- 💬 How to reach me: Discord Hirzi#8701
+
+## Need dev?
+
+- 💬 Discord: Hirzi#8701
+- 💬 Email: hirzidevs@gmail.com
+- 💬 Discord Server: https://discord.gg/zv6maQRah3
 
 ## Active Project
 
@@ -16,7 +21,6 @@
 - [**PteroStats**](https://github.com/HirziDevs/PteroStats)
 ![img](https://media.discordapp.net/attachments/796259732683227157/861126504246411264/20210704_130856.jpg)
 ![img](https://media.discordapp.net/attachments/586738538448420881/866624597171372032/IMG_20210719_171633.jpg)
-![img](https://media.discordapp.net/attachments/861112767174803466/861194338687385610/IMG_20210704_173809.jpg)
 
 - **TicketBot Recode**
 
