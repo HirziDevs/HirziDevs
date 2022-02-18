@@ -22,7 +22,7 @@
 ![img](https://media.discordapp.net/attachments/796259732683227157/861126504246411264/20210704_130856.jpg)
 ![img](https://media.discordapp.net/attachments/586738538448420881/866624597171372032/IMG_20210719_171633.jpg)
 
-- **TicketBot Recode**
+- **PteroClient**
 
 ## Github Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=HirziDevs&show_icons=true&theme=algolia)
