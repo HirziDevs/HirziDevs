@@ -2,7 +2,6 @@
 
 - 🖥️ I'm making discord.js bot
 - 🇮🇩 I'm from indonesia
-- 🌱 I’m currently learning mongodb
 
 ## Need Developer?
 
@@ -13,14 +12,14 @@
 ## Active Project
 
 - [**PteroControl**](https://github.com/HirziDevs/PteroControl)
-![img](https://media.discordapp.net/attachments/796243715014131714/857837120252411904/20210625_111805.jpg)
-![img](https://media.discordapp.net/attachments/858987249218486274/858998561395834880/IMG_20210628_161250.jpg)
-![img](https://media.discordapp.net/attachments/858987249218486274/858998561152827402/Screenshot_2021-06-28-16-13-21-29_572064f74bd5f9fa804b05334aa4f912.jpg)
-![img](https://media.discordapp.net/attachments/858987249218486274/858998561643036682/IMG_20210628_161217.jpg)
+<img alt="Example" src="https://media.discordapp.net/attachments/796243715014131714/870932824046338089/20210731_143542.jpg" width="400"/>
+<img alt="Example" src="https://media.discordapp.net/attachments/819757140155564062/878648091983622184/Screenshot_2021-08-21-21-29-26-12_572064f74bd5f9fa804b05334aa4f912.jpg" width="400"/>
+<img alt="Example" src="https://media.discordapp.net/attachments/819757140155564062/878649246499352576/Screenshot_2021-08-21-21-34-29-65_572064f74bd5f9fa804b05334aa4f912.jpg" width="400"/>
+<img alt="Example" src="https://media.discordapp.net/attachments/819757140155564062/878649246163824641/20210821_213708.jpg" width="400"/>
 
 - [**PteroStats**](https://github.com/HirziDevs/PteroStats)
-![img](https://media.discordapp.net/attachments/796259732683227157/861126504246411264/20210704_130856.jpg)
-![img](https://media.discordapp.net/attachments/586738538448420881/866624597171372032/IMG_20210719_171633.jpg)
+<img alt="PteroStats Banner" src="https://cdn.discordapp.com/attachments/626755594526916629/978478722489393153/20220524_090325.png" width="400"/>
+<img alt="Example" src="https://cdn.discordapp.com/attachments/988796533430448148/991520721467613224/example.gif" width="400"/>
 
 - **PteroClient**
 
