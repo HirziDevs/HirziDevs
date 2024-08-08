@@ -6,7 +6,7 @@
 
 ## Active Projects
 ### [PteroStats](https://github.com/HirziDevs/PteroStats/tree/dev) 
-PteroStats is a Discord Bot designed to check Pterodactyl or Pelican Panel & Nodes stats and post it to your Discord server.  
+PteroStats is a Discord Bot that designed to check Pterodactyl or Pelican Panel & Nodes stats and post it to your Discord server.  
 
 <img alt="PteroStats Preview" src="https://i.imgur.com/fzQANo5.gif" width="355"/>
 
