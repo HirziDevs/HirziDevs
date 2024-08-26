@@ -13,7 +13,7 @@ PteroStats is a Discord Bot that designed to check Pterodactyl or Pelican Panel 
 ### [PteroControl](https://pterocontrol.znproject.my.id)
 PteroControl is a Discord bot that allows you to control your panels running Pterodactyl or Pelican directly from Discord.
 
-<img alt="PteroControl Preview" src="https://usercontent.catto.pictures/hirzi/7c52386f-dbbe-41d4-aa16-3b208da254db.png" width="355"/>
+<img alt="PteroControl Preview" src="https://usercontent.catto.pictures/hirzi/9b2fc938-c6cf-4cd5-8c00-e3082ac53f98.png" width="355"/>
 
 ### [CCBG](https://github.com/HirziDevs/CCBG) 
 Customize your cobblestone and basalt generator with this addon! You can make your cobblestone and basalt generator spawn any block you want. By default, it spawns all Minecraft ores, including ancient debris, making it perfect for SkyBlock and other minigames that utilize cobblestone and basalt generators.
