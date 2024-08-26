@@ -6,14 +6,14 @@
 
 ## Active Projects
 ### [PteroStats](https://github.com/HirziDevs/PteroStats/tree/dev) 
-PteroStats is a Discord Bot that designed to check Pterodactyl or Pelican Panel & Nodes stats and post it to your Discord server.  
+PteroStats is a Discord Bot that designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.  
 
 <img alt="PteroStats Preview" src="https://i.imgur.com/fzQANo5.gif" width="355"/>
 
 ### [PteroControl](https://pterocontrol.znproject.my.id)
 PteroControl is a Discord bot that allows you to control your panels running Pterodactyl or Pelican directly from Discord.
 
-<img alt="PteroControl Preview" src="https://usercontent.catto.pictures/hirzi/9b2fc938-c6cf-4cd5-8c00-e3082ac53f98.png" width="355"/>
+<img alt="PteroControl Preview" src="https://usercontent.catto.pictures/hirzi/74064f5e-73b1-464f-85d1-3c2340c0334b.png" width="355"/>
 
 ### [CCBG](https://github.com/HirziDevs/CCBG) 
 Customize your cobblestone and basalt generator with this addon! You can make your cobblestone and basalt generator spawn any block you want. By default, it spawns all Minecraft ores, including ancient debris, making it perfect for SkyBlock and other minigames that utilize cobblestone and basalt generators.
