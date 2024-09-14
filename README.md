@@ -5,10 +5,12 @@
 - 🇮🇩 I'm from Indonesia. 
 
 ## Active Projects
-### [PteroStats](https://github.com/HirziDevs/PteroStats/tree/dev) 
-PteroStats is a Discord Bot that designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.  
+### [PteroStats](https://github.com/HirziDevs/PteroStats) 
+PteroStats is a Discord App/Bot designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.
 
-<img alt="PteroStats Preview" src="https://i.imgur.com/fzQANo5.gif" width="355"/>
+<img alt="PteroStats Image Preview" src="https://usercontent.catto.pictures/hirzi/e6f6fe6a-8c0e-4c7a-8b73-d4af752324f4.png" width="300"/>
+
+<img alt="PteroStats Console Preview" src="https://usercontent.catto.pictures/hirzi/8ce3aac6-5c46-4626-bd14-af994b602f8e.png" width="300"/>
 
 ### [PteroControl](https://pterocontrol.znproject.my.id)
 PteroControl is a Discord bot that allows you to control your panels running Pterodactyl or Pelican directly from Discord.
