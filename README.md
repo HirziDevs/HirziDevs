@@ -1,6 +1,6 @@
 # Hi there, I'm Hirzi 👋
 
-I am a software developer with experience in developing applications using Javascript. Additionally, I have experience in developing web and discord applications. Currently, I am learning Typescript and some popular Javascript libraries to expand my skillset.
+I'm a software developer building web and Discord applications with JavaScript, and I'm currently learning TypeScript and popular JavaScript libraries.
 
 ## 💻 Programming Language & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -13,15 +13,9 @@ I am a software developer with experience in developing applications using Javas
 Discord Bot designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.
 
 <img
-  src="https://usercontent.catto.pictures/hirzi/e6f6fe6a-8c0e-4c7a-8b73-d4af752324f4.png"
+  src="https://usercontent.catto.pictures/hirzi/86cecadc-a873-4708-a0d8-80080e821633.png"
   alt="PteroStats Image Preview"
-  width="180"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://usercontent.catto.pictures/hirzi/8ce3aac6-5c46-4626-bd14-af994b602f8e.png"
-  alt="PteroStats Console Preview"
-  width="335"
+  width="600"
 />
 
 ### [PteroControl](https://pterocontrol.znproject.my.id)
@@ -32,8 +26,8 @@ Discord Bot that allows you to control your panels running Pterodactyl or Pelica
 
 <img 
   alt="PteroControl Preview" 
-  src="https://usercontent.catto.pictures/hirzi/74064f5e-73b1-464f-85d1-3c2340c0334b.png" 
-  width="300"
+  src="https://usercontent.catto.pictures/hirzi/f9273aa1-663f-434f-a455-492e9d46f1b2.png" 
+  width="600"
 />
 
 ### [CCBG](https://github.com/HirziDevs/CCBG) 
@@ -44,8 +38,8 @@ Customize your cobblestone and basalt generator with this addon! You can make yo
 
 <img 
   alt="CCBG Preview" 
-  src="https://lh3.googleusercontent.com/fife/ALs6j_E5VgVmqkj0XNmxbbGc5mJG8SpfmvN7rxZDlkJpByO-CQzXqtnCwzTi5VshWFNYVj1xET719tT7YvnCQOfOvC9AeSbXrp5vOkX12QBGvvJ9e-MdkUH5IenKxGIfchmvzFIeAfTRB0H3QsXArbLdgM_Coq0Vxt1aQ7Y9ceWyNXpJgHekH5s0nSc0hraMc0sTmhudT0zB7NOTB38vI8tu0cyshN5BVthO2n7LTXi-nQmOBzxJMw0B0suDAxxRzJZfTkfxgrpo6JtdjjcezTglRiiV0KqWGkGinmHvC_9Aj_GIWbJQwDqwMr72hoSXmpZfe7XzUYHbCUocvaITTCEK2Ge1706Xr7PZumZS4h9h4p8f7IJpUNL8xoU_3D-2tzxjwLlDuFSc66Sge8Q5d6FTa9t46P2NMtpH4h_iAHP-AJ-qyph_XcVZNOAZZd4nPz7cnIl2HRQAvhUspWlbU1TGm-qZS9h3PpUz12zvE2ScZhWVwuV2ln2nczOHINjp2Zi-gNfiWuvxFUh2kPybfaY7a8PzmPcl1SkMy00tSB7s_I46KmAzq0r0-RQkcBzhID84ZJ-H-NVwkxoEJCtLk64ywra-W4X8Kpg6MPQlgCgYqy3IyA6xuy3GQjumPabCCJgrYGqoZb6S-dG0MuCSxpqdc92h4NIiJ8G_KZ2s3yQMipEFjTidntbDkPvuQk4ROezeCHQOhRgYR0IAOtY3-oPRfaLvxlP73KnbnxzuQF0jD7dKRBhrYNYS8yygvI6o6NzdFWRhLEAfQCktrlA_on8n5KgYiqZxZg5pALHJaBrVv28lw_qoCUtkRBj-7GX7W0BNINd6220O_mjjKXrtoUd4Zg-Aai2Dvg-kq7WbVatkcQlzcTZ0Xitd8koyy5BsomEfXZ39xKtEO60IUv0BReJ9j2SW5IYJJOtMZEc2HjJ04ETH8JSZymS0HWb7PlSUpthBbUDyRF9onZjOEO_zCVULUNAiMmz6qAYNpLnB3GyC5mOx55njpSWbMa73nJXuNt-jB1KsiJERSnMh1x4FPu5RdBcnvvVEfQX4jIIbefcxTnjk08znFyQ3pWpkBpbVHVApSZ0rNhrjurf71VZc8wNx=w1318-h646-rw-v1" 
-  width="355"
+  src="https://usercontent.catto.pictures/hirzi/37cfaf78-d0f6-4064-8ad7-ac29517567cb.png" 
+  width="400"
 />
 
 <!--
