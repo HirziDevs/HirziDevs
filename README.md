@@ -1,16 +1,19 @@
+<div align="center">
+
 # Hi there, I'm Hirzi 👋
 
 I'm a software developer building web and Discord applications with JavaScript, and I'm currently learning TypeScript and popular JavaScript libraries.
 
-## 💻 Programming Language & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Popular Projects
+</div>
+
+## Projects
 ### [PteroStats](https://hirzi.znproject.my.id/pterostats)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/hirzidevs/pterostats?style=for-the-badge&logo=github) ![GitHub Downloads](https://img.shields.io/github/downloads/hirzidevs/pterostats/total?style=for-the-badge&logo=github)
-
 Discord Bot designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/hirzidevs/pterostats?style=for-the-badge&logo=github) ![GitHub Downloads](https://img.shields.io/github/downloads/hirzidevs/pterostats/total?style=for-the-badge&logo=github)
 
 <img
   src="https://usercontent.catto.pictures/hirzi/86cecadc-a873-4708-a0d8-80080e821633.png"
@@ -20,9 +23,9 @@ Discord Bot designed to check Pterodactyl or Pelican Panel stats and post it to 
 
 ### [PteroControl](https://hirzi.znproject.my.id/pterocontrol)
 
-![Discord Bot Servers](https://img.shields.io/badge/server%20installs-300%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Discord Bot Servers](https://img.shields.io/badge/user%20installs-100%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
 Discord Bot that allows you to control your panels running Pterodactyl or Pelican directly from Discord.
+
+![Discord Bot Servers](https://img.shields.io/badge/servers-300%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Discord Bot Servers](https://img.shields.io/badge/users-100%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <img 
   alt="PteroControl Preview" 
@@ -30,11 +33,27 @@ Discord Bot that allows you to control your panels running Pterodactyl or Pelica
   width="600"
 />
 
+### [xRzLinks](https://www.xrz.my.id)
+
+Turn long URLs into short, shareable links. Manage destinations, protect links, set limits, and understand how people interact with them.
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-6-2D3748?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
+
+<img
+  src="https://usercontent.catto.pictures/hirzi/99fc8ffb-9a75-449b-bfa2-d26e1bfcf213.png"
+  alt="xRzLinks Image Preview"
+  width="600"
+/>
+
 ### [CCBG](https://hirzi.znproject.my.id/CCBG) 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/hirzidevs/ccbg?style=for-the-badge&logo=github) ![GitHub Downloads](https://img.shields.io/github/downloads/hirzidevs/ccbg/total?style=for-the-badge&logo=github)
-
 Customize your cobblestone and basalt generator with this addon! You can make your cobblestone and basalt generator spawn any block you want. By default, it spawns all Minecraft ores, including ancient debris, making it perfect for SkyBlock and other minigames that utilize cobblestone and basalt generators.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/hirzidevs/ccbg?style=for-the-badge&logo=github) ![GitHub Downloads](https://img.shields.io/github/downloads/hirzidevs/ccbg/total?style=for-the-badge&logo=github)
 
 <img 
   alt="CCBG Preview" 
