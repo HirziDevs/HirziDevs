@@ -33,6 +33,22 @@ Discord Bot that allows you to control your panels running Pterodactyl or Pelica
   width="600"
 />
 
+### [Hook2Cord](https://hook2cord.znproject.my.id)
+
+Turn any JSON webhook into a Discord message.
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-6-2D3748?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
+
+<img
+  src="https://usercontent.catto.pictures/hirzi/27b61569-ca86-40fd-8ba1-418f580b95aa.png"
+  alt="Hook2Cord Image Preview"
+  width="600"
+/>
+
 ### [xRzLinks](https://www.xrz.my.id)
 
 Turn long URLs into short, shareable links. Manage destinations, protect links, set limits, and understand how people interact with them.
